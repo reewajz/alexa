@@ -1,0 +1,6 @@
+{
+    "SitePort": 8000,
+    "DBURL": "mongodb://localhost:27017/",
+    "DB": "alexa",
+    "Pagesize":5
+}
